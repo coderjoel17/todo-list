@@ -11,7 +11,7 @@ A simple, user-friendly To-Do List application built with HTML, CSS, and JavaScr
 - **Clean Interface**: Simple and intuitive UI for an excellent user experience.  
 
 ## Demo  
-[Live Demo Here](#) *(Add your GitHub Pages link once deployed.)*  
+[Live Demo Here](https://coderjoel17.github.io/todo-list/)
 
 ## Installation  
 1. Clone this repository to your local machine:  
